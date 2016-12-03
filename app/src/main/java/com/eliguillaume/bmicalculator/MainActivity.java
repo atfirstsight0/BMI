@@ -1,5 +1,8 @@
 package com.eliguillaume.bmicalculator;
 
+    // Purpose of this application is to demonstrate comprehension of Android Development basic
+    // fundementals.
+
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
